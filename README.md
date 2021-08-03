@@ -15,7 +15,7 @@ Implementação do projeto estudado no GoStack 2020 da Rocketseat.
 
 ---
 
-## 🔖&nbsp; Layout do Projeto
+## 🖌&nbsp; Layout do Projeto 
 
 [Acesse o Figma](https://www.figma.com/file/BXCihtXXh9p37lGsENV614/GoBarber?node-id=34%3A1180)
 

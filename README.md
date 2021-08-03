@@ -5,12 +5,19 @@
 # Indice
 
 - [Sobre](#-sobre)
+- [Layout do Projeto](#-layout)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
 ## 🔖&nbsp; Sobre
 
 Implementação do projeto estudado no GoStack 2020 da Rocketseat.
+
+---
+
+## 🔖&nbsp; Layout do Projeto
+
+[Acesse o Figma](https://www.figma.com/file/BXCihtXXh9p37lGsENV614/GoBarber?node-id=34%3A1180)
 
 ---
 
